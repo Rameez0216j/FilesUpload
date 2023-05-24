@@ -1,0 +1,9 @@
+install cloudinary :npm i cloudinary
+use express-file-upload for interaction with files : npm i express-fileupload
+HW: after uploading to cloudinary name is changing for files find out Why?
+HW: instead of quality use height attribute and other attributes for compression
+HW: explore nodemailer and pre/post middleware (read about this on documentation of mongoose itself)
+pre --> some task just before creating an entry in DataBase for some schema
+post --> some task just after creating an entry in DataBase for some schema
+
+Nodemailer : install,import,create a transporter, send the mail
